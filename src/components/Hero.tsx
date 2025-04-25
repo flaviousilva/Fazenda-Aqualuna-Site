@@ -14,7 +14,7 @@ const Hero = () => (
     <div className="absolute inset-0 bg-gradient-to-r from-aqua/80 to-white/70" />
     <div className="relative container z-10 flex flex-col items-start max-w-2xl py-10 animate-fade-in">
       <h1 className="font-playfair text-4xl md:text-5xl font-bold text-gray-900 mb-6 drop-shadow">
-        Bem-vindo à Fazenda Feliz
+        Bem-vindo à Aqualuna
       </h1>
       <p className="font-inter text-lg md:text-xl text-gray-800 mb-6">
         Camarão de qualidade, criado com sustentabilidade, direto da nossa fazenda para a sua mesa.
