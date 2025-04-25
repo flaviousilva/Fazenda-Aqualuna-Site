@@ -17,7 +17,7 @@ const Navbar = () => {
     <header className="w-full bg-white/90 fixed top-0 left-0 z-40 shadow-sm backdrop-blur">
       <nav className="container flex items-center justify-between h-16">
         <a href="#inicio" className="flex items-center gap-2 font-playfair font-bold text-xl text-aqua tracking-wide">
-          <span role="img" aria-label="shrimp">🦐</span> Fazenda Feliz
+          <span role="img" aria-label="shrimp">🦐</span> Aqualuna
         </a>
         <div className="hidden md:flex gap-6">
           {links.map(({ href, label }) => (
