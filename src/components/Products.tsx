@@ -20,7 +20,7 @@ const Products = () => (
         </ul>
       </div>
       <img
-        src="https://raw.githubusercontent.com/flaviousilva/imagens/6051e7ac6e5c447623c31457e1dce92c8f1c12c0/foto_camarao.jpg"
+        src="https://raw.githubusercontent.com/flaviousilva/imagens/7a3905855affbfd2e59d53dcc995137e0c2d33df/480caa7c-c1d3-4dd3-afc4-7aed6f48fa52.JPG"
         alt="Camarão fresco"
         className="rounded-xl shadow-xl mt-10 md:mt-0 max-w-[340px] object-cover"
       />
