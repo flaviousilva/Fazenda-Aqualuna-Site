@@ -5,7 +5,7 @@ const Hero = () => (
     className="relative h-[80vh] min-h-[480px] flex items-center bg-soft-blue overflow-hidden"
   >
     <img
-      src="https://raw.githubusercontent.com/flaviousilva/imagens/da095067c0bce0d3a81a2a3a39d702dc97a48048/Faz%20Olho%20Dagua%20DJI_0060.JPG"
+      src="https://raw.githubusercontent.com/flaviousilva/imagens/da095067c0bce0d3a81a2a3a39d702dc97a48048/olhodagua.JPG"
       alt="Fazenda de camarão"
       className="absolute inset-0 w-full h-full object-cover object-center opacity-70"
       draggable="false"
