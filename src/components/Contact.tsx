@@ -57,10 +57,10 @@ const Contact = () => {
           )}
         </form>
         <div className="mt-8 text-center text-gray-700 font-inter">
-          <strong>Endereço:</strong> Linha Verde, s/n, Zona Rural, Brasil <br />
+          <strong>Endereço:</strong> Fazenda Da Guia, LUCENA - PB, 58.315-000 <br />
           <strong>WhatsApp:</strong>{" "}
           <a href="https://wa.me/559999999999" target="_blank" rel="noopener noreferrer" className="text-aqua underline hover:text-aqua/70">
-            (99) 99999-9999
+             (83) 3293 5272
           </a>
         </div>
       </div>
