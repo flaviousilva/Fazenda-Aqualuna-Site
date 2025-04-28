@@ -4,7 +4,7 @@ const IMAGES = [
 ,
  "https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/DJI_0023.JPG",
  "https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/DJI_0009.JPG",
- "https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/Aqualina%20DJI_0041.JPG?token=GHSAT0AAAAAADC3GWRAZXPU3HZ55PILDHME2APWQDA",
+ "https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/Aqualina%20DJI_0041.JPG",
  
 ];
 
