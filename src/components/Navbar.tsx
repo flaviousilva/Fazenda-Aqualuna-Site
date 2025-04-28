@@ -30,7 +30,7 @@ const Navbar = () => {
           {/* Separador vertical */}
           <div className="h-8 w-px bg-gray-300 hidden md:block"></div>
           
-          {/* Logo Olho D'Água - Placeholder, substitua pelo link correto quando o outro site estiver pronto, la onde tem o # */}
+          {/* Logo Olho D'Água - Placeholder, substitua pelo link correto quando o outro site estiver pronto */}
           <a href="#" className="hidden md:flex items-center gap-2 font-playfair font-bold text-xl text-blue-500 tracking-wide">
             <img 
               src="/lovable-uploads/3d33c833-f0e1-4e81-87e8-818dfc317faf.png" 
