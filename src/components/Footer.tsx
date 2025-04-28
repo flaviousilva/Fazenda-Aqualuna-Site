@@ -7,7 +7,7 @@ const Footer = () => (
         © {new Date().getFullYear()} Todos os direitos reservados.
       </span>
       <span className="font-inter text-sm">
-        Desenvolvido com <span className="text-pink-300">♥</span> por Lovable
+        
       </span>
     </div>
   </footer>
