@@ -1,9 +1,9 @@
 
 const IMAGES = [
  "https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/foto_principal.JPG?token=GHSAT0AAAAAADC3GWRBPK4PKH6TJ7J3M35S2APWHBQ"
-, "https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/Aqualina%20DJI_0041.JPG?token=GHSAT0AAAAAADC3GWRAOMGJ74RDV6FHVBZK2APWKCQ",
- "https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/DJI_0023.JPG?token=GHSAT0AAAAAADC3GWRBK4JV4MTWPI3LKKWA2APWINA",
+,"https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/DJI_0023.JPG?token=GHSAT0AAAAAADC3GWRBK4JV4MTWPI3LKKWA2APWINA",
  "https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/DJI_0009.JPG?token=GHSAT0AAAAAADC3GWRBA2Z3TVNN5AY6VKHM2APWJIA",
+ "https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/Aqualina%20DJI_0041.JPG?token=GHSAT0AAAAAADC3GWRAOMGJ74RDV6FHVBZK2APWKCQ"
  
 ];
 
