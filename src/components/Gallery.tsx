@@ -13,7 +13,7 @@ const Gallery = () => (
     className="container py-16"
   >
     <h2 className="font-playfair text-3xl font-bold text-aqua mb-8 text-center">
-      Galeria da Fazenda
+      Fotos da Aqualuna
     </h2>
     <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
       {IMAGES.map((src, i) => (
