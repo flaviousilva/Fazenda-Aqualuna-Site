@@ -4,7 +4,7 @@ const IMAGES = [
 ,
  "https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/DJI_0023.JPG",
  "https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/DJI_0009.JPG",
- "https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/Aqualina%20DJI_0041.JPG",
+ "https://raw.githubusercontent.com/flaviousilva/imagens/8d4e706d2c51b6c969ca3abb483651f7c9e82965/foto_viveiro.jpg",
  
 ];
 
