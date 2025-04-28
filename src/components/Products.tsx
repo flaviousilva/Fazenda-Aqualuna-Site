@@ -1,7 +1,7 @@
 
 const Products = () => (
   <section
-    id="produtos"
+    id="produtos" 
     className="bg-soft-green py-16"
   >
     <div className="container flex flex-col md:flex-row items-center md:gap-12">
