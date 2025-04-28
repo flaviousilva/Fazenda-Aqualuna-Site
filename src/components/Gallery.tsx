@@ -1,6 +1,6 @@
 
 const IMAGES = [
-  "https://github.com/flaviousilva/imagens/raw/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/foto_principal.JPG" alt="Foto Principal da Fazenda" width="600">
+  "https://github.com/flaviousilva/imagens/raw/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/foto_principal.JPG"
 ,
   "https://images.unsplash.com/photo-1485833077593-4278bba3f11f?auto=format&fit=crop&w=400&q=80",
 ];
