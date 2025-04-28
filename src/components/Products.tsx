@@ -11,8 +11,7 @@ const Products = () => (
         </h2>
         <p className="font-inter text-gray-800 mb-4 text-lg">
           Nossos camarões são criados em águas puras e passam por rigorosos controles de qualidade em todas as etapas,
-          desde o cultivo sustentável até a entrega. Atendemos restaurantes, varejistas e consumidores finais,
-          sempre com compromisso e excelência.
+          desde o cultivo sustentável até a entrega.
         </p>
         <ul className="font-inter text-md text-gray-700 space-y-2 list-disc list-inside">
           <li>Fresco e saudável</li>
@@ -21,7 +20,7 @@ const Products = () => (
         </ul>
       </div>
       <img
-        src="https://images.unsplash.com/photo-1485833077593-4278bba3f11f?auto=format&fit=crop&w=430&q=80"
+        src="https://raw.githubusercontent.com/flaviousilva/imagens/6051e7ac6e5c447623c31457e1dce92c8f1c12c0/foto_camarao.jpg"
         alt="Camarão fresco"
         className="rounded-xl shadow-xl mt-10 md:mt-0 max-w-[340px] object-cover"
       />
