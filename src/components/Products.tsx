@@ -11,7 +11,7 @@ const Products = () => (
         </h2>
         <p className="font-inter text-gray-800 mb-4 text-lg">
           Nossos camarões são criados em águas puras e passam por rigorosos controles de qualidade em todas as etapas,
-          desde o cultivo sustentável até a entrega.
+          desde o cultivo sustentável até a entrega. 
         </p>
         <ul className="font-inter text-md text-gray-700 space-y-2 list-disc list-inside">
           
