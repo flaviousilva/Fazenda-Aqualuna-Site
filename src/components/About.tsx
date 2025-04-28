@@ -17,9 +17,7 @@ const About = () => (
         garantindo sabor, segurança alimentar e responsabilidade social.
       </p>
       <ul className="font-inter text-md text-gray-700 mt-2 space-y-2 list-disc list-inside">
-        <li>Produção sustentável e rastreável</li>
-        <li>Qualidade premium garantida</li>
-        <li>Compromisso com o cliente e o meio ambiente</li>
+       
       </ul>
     </div>
   </section>
