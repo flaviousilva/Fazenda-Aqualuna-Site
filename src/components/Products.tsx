@@ -14,9 +14,7 @@ const Products = () => (
           desde o cultivo sustentável até a entrega.
         </p>
         <ul className="font-inter text-md text-gray-700 space-y-2 list-disc list-inside">
-          <li>Fresco e saudável</li>
-          <li>Opções vivas, inteiras e congeladas</li>
-          <li>Entrega refrigerada e segura</li>
+          
         </ul>
       </div>
       <img
