@@ -5,7 +5,7 @@ const About = () => (
     className="container my-16 md:my-24 flex flex-col md:flex-row gap-10 md:gap-16 items-center"
   >
     <img
-      src="https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=500&q=80"
+      src="https://raw.githubusercontent.com/flaviousilva/imagens/b0b27a1ee8198d8c1e7f56fede8faae7e6420c56/DJI_0023.JPG"
       alt="Equipe da fazenda"
       className="rounded-xl shadow-lg w-full max-w-[350px] md:max-w-[420px] object-cover"
     />
