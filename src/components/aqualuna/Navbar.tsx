@@ -36,7 +36,7 @@ const Navbar = () => {
             <img 
               src="/lovable-uploads/3d33c833-f0e1-4e81-87e8-818dfc317faf.png" 
               alt="Olho D'Água Logo" 
-              className="h-8 w-auto" 
+              className="h-12 w-auto" 
             /> 
             Olho D'Água
           </Link>
