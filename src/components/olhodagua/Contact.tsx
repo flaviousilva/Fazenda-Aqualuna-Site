@@ -58,9 +58,9 @@ const Contact = () => {
         </form>
         <div className="mt-8 text-center text-gray-700 font-inter">
           <strong>Localização:</strong> Rua Engenho Amparo , ILHA DE ITAMARACÁ - PE, 53.900-000, Brasil <br />
-          <strong>Telefone:</strong>{" "}
+          <strong:</strong>{" "}
           <a href="https://wa.me/559999999999" target="_blank" rel="noopener noreferrer" className="text-blue-500 underline hover:text-blue-700">
-             (83) 3293 1234
+
           </a>
         </div>
       </div>
