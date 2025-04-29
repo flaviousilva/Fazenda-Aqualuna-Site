@@ -10,7 +10,7 @@ const Footer = () => (
           <img 
             src="/lovable-uploads/3d33c833-f0e1-4e81-87e8-818dfc317faf.png" 
             alt="Aqualuna Logo" 
-            className="h-8 w-auto" 
+            className="h-12 w-auto" 
           />
           <span className="font-playfair text-lg font-bold">Fazenda Aqualuna</span>
         </div>
@@ -21,9 +21,9 @@ const Footer = () => (
         {/* Logo Olho D'Água */}
         <Link to="/olhodagua" className="flex items-center gap-2">
           <img 
-            src="/lovable-uploads/3d33c833-f0e1-4e81-87e8-818dfc317faf.png" 
+            src="/lovable-uploads/fc8213ec-31eb-4933-9eea-e8b83064e6df.png" 
             alt="Olho D'Água Logo" 
-            className="h-8 w-auto" 
+            className="h-12 w-auto" 
           />
           <span className="font-playfair text-lg font-bold">Fazenda Olho D'Água</span>
         </Link>

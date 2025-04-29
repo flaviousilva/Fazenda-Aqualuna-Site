@@ -23,7 +23,7 @@ const Navbar = () => {
             <img 
               src="/lovable-uploads/3d33c833-f0e1-4e81-87e8-818dfc317faf.png" 
               alt="Aqualuna Logo" 
-              className="h-16 w-auto" 
+              className="h-12 w-auto" 
             /> 
             Aqualuna
           </a>
@@ -34,9 +34,9 @@ const Navbar = () => {
           {/* Logo Olho D'Água - Link para a página do Olho D'Água */}
           <Link to="/olhodagua" className="hidden md:flex items-center gap-2 font-playfair font-bold text-xl text-blue-500 tracking-wide">
             <img 
-              src="/lovable-uploads/3d33c833-f0e1-4e81-87e8-818dfc317faf.png" 
+              src="/lovable-uploads/fc8213ec-31eb-4933-9eea-e8b83064e6df.png" 
               alt="Olho D'Água Logo" 
-              className="h-16 w-auto" 
+              className="h-12 w-auto" 
             /> 
             Olho D'Água
           </Link>
@@ -71,9 +71,9 @@ const Navbar = () => {
             onClick={() => setOpen(false)}
           >
             <img 
-              src="/lovable-uploads/3d33c833-f0e1-4e81-87e8-818dfc317faf.png" 
+              src="/lovable-uploads/fc8213ec-31eb-4933-9eea-e8b83064e6df.png" 
               alt="Olho D'Água Logo" 
-              className="h-6 w-auto" 
+              className="h-8 w-auto" 
             /> 
             Olho D'Água
           </Link>
