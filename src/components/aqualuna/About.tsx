@@ -17,9 +17,7 @@ const About = () => (
         garantindo sabor, segurança alimentar e responsabilidade social.
       </p>
       <ul className="font-inter text-md text-gray-700 mt-2 space-y-2 list-disc list-inside">
-        <li>Pioneiros em aquicultura sustentável</li>
-        <li>Processo de criação certificado</li>
-        <li>Compromisso com a qualidade e meio ambiente</li>
+      
       </ul>
     </div>
   </section>
