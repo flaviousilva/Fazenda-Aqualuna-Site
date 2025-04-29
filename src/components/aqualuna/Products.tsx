@@ -14,7 +14,10 @@ const Products = () => (
           desde o cultivo sustentável até a entrega. 
         </p>
         <ul className="font-inter text-md text-gray-700 space-y-2 list-disc list-inside">
-          
+          <li>Processo de criação sustentável</li>
+          <li>Alta qualidade nutricional</li>
+          <li>Sabor premium e textura perfeita</li>
+        </ul>
       </div>
       <img
         src="https://raw.githubusercontent.com/flaviousilva/imagens/7a3905855affbfd2e59d53dcc995137e0c2d33df/480caa7c-c1d3-4dd3-afc4-7aed6f48fa52.JPG"
