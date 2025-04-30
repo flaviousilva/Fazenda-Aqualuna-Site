@@ -15,16 +15,18 @@ const Navbar = () => {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="w-full bg-white/90 fixed top-0 left-0 z-40 shadow-sm backdrop-blur">
+    <header className="w-full bg-white/95 fixed top-0 left-0 z-40 shadow-sm backdrop-blur">
       <nav className="container flex items-center justify-between h-16">
         <div className="flex items-center gap-4">
           {/* Logo Aqualuna */}
           <a href="/" className="flex items-center gap-2 font-playfair font-bold text-xl text-aqua tracking-wide">
-            <img 
-              src="/lovable-uploads/3d33c833-f0e1-4e81-87e8-818dfc317faf.png" 
-              alt="Aqualuna Logo" 
-              className="h-16 w-auto" 
-            /> 
+            <div className="bg-white/30 rounded-full p-1">
+              <img 
+                src="/lovable-uploads/3d33c833-f0e1-4e81-87e8-818dfc317faf.png" 
+                alt="Aqualuna Logo" 
+                className="h-12 w-auto object-contain" 
+              /> 
+            </div>
             Aqualuna
           </a>
           
@@ -33,11 +35,13 @@ const Navbar = () => {
           
           {/* Logo Olho D'Água - Link para a página do Olho D'Água */}
           <Link to="/olhodagua" className="hidden md:flex items-center gap-2 font-playfair font-bold text-xl text-blue-500 tracking-wide">
-            <img 
-              src="/lovable-uploads/fc8213ec-31eb-4933-9eea-e8b83064e6df.png" 
-              alt="Olho D'Água Logo" 
-              className="h-16 w-auto" 
-            /> 
+            <div className="bg-white/30 rounded-full p-1">
+              <img 
+                src="/lovable-uploads/fc8213ec-31eb-4933-9eea-e8b83064e6df.png" 
+                alt="Olho D'Água Logo" 
+                className="h-12 w-auto object-contain" 
+              /> 
+            </div>
             Olho D'Água
           </Link>
         </div>
@@ -70,11 +74,13 @@ const Navbar = () => {
             className="flex items-center gap-2 font-playfair font-bold text-lg text-blue-500 tracking-wide py-3 border-b border-gray-100"
             onClick={() => setOpen(false)}
           >
-            <img 
-              src="/lovable-uploads/fc8213ec-31eb-4933-9eea-e8b83064e6df.png" 
-              alt="Olho D'Água Logo" 
-              className="h-16 w-auto" 
-            /> 
+            <div className="bg-white/30 rounded-full p-1">
+              <img 
+                src="/lovable-uploads/fc8213ec-31eb-4933-9eea-e8b83064e6df.png" 
+                alt="Olho D'Água Logo" 
+                className="h-12 w-auto object-contain" 
+              /> 
+            </div>
             Olho D'Água
           </Link>
           
