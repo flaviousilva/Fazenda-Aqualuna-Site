@@ -24,7 +24,7 @@ const Navbar = () => {
               <img 
                 src="https://raw.githubusercontent.com/flaviousilva/imagens/9677315af4dc12cd6594e73bb0e3c8bf7cc0d66b/Logo%20Aqualuna.png" 
                 alt="Aqualuna Logo" 
-                className="h-12 w-auto object-contain" 
+                className="h-14 w-auto object-contain" 
               /> 
             </div>
             Aqualuna
@@ -39,7 +39,7 @@ const Navbar = () => {
               <img 
                 src="https://raw.githubusercontent.com/flaviousilva/imagens/bf10a15328b37e828860f4fef729bb499bde81b4/image.png" 
                 alt="Olho D'Água Logo" 
-                className="h-12 w-auto object-contain" 
+                className="h-14 w-auto object-contain" 
               /> 
             </div>
             Olho D'Água
@@ -78,7 +78,7 @@ const Navbar = () => {
               <img 
                 src="/lovable-uploads/fc8213ec-31eb-4933-9eea-e8b83064e6df.png" 
                 alt="Olho D'Água Logo" 
-                className="h-12 w-auto object-contain" 
+                className="h-14 w-auto object-contain" 
               /> 
             </div>
             Olho D'Água
