@@ -60,7 +60,7 @@ const Contact = () => {
           <strong>Endereço:</strong> Fazenda Da Guia, LUCENA - PB, 58.315-000, Brasil <br />
           <strong>Telefone:</strong>{" "}
           <a href="https://wa.me/559999999999" target="_blank" rel="noopener noreferrer" className="text-aqua underline hover:text-aqua/70">
-             (83) 3293 5272
+             
           </a>
         </div>
       </div>
