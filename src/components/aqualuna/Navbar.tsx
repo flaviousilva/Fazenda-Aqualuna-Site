@@ -37,7 +37,7 @@ const Navbar = () => {
           <Link to="/olhodagua" className="hidden md:flex items-center gap-2 font-playfair font-bold text-xl text-blue-500 tracking-wide">
             <div className="bg-white/30 rounded-full p-1">
               <img 
-                src="/lovable-uploads/fc8213ec-31eb-4933-9eea-e8b83064e6df.png" 
+                src="https://raw.githubusercontent.com/flaviousilva/imagens/bf10a15328b37e828860f4fef729bb499bde81b4/image.png" 
                 alt="Olho D'Água Logo" 
                 className="h-12 w-auto object-contain" 
               /> 
