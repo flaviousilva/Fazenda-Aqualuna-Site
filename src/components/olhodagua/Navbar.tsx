@@ -22,9 +22,9 @@ const Navbar = () => {
           <a href="/olhodagua" className="flex items-center gap-2 font-playfair font-bold text-xl text-blue-500 tracking-wide">
             <div className="bg-white/30 rounded-full p-1">
               <img 
-                src="/lovable-uploads/fc8213ec-31eb-4933-9eea-e8b83064e6df.png" 
+                src="https://raw.githubusercontent.com/flaviousilva/imagens/bf10a15328b37e828860f4fef729bb499bde81b4/image.png" 
                 alt="Olho D'Água Logo" 
-                className="h-12 w-auto object-contain" 
+                className="h-14 w-auto object-contain" 
               /> 
             </div>
             Olho D'Água
@@ -37,9 +37,9 @@ const Navbar = () => {
           <Link to="/" className="hidden md:flex items-center gap-2 font-playfair font-bold text-xl text-aqua tracking-wide">
             <div className="bg-white/30 rounded-full p-1">
               <img 
-                src="/lovable-uploads/3d33c833-f0e1-4e81-87e8-818dfc317faf.png" 
+                src="https://raw.githubusercontent.com/flaviousilva/imagens/9677315af4dc12cd6594e73bb0e3c8bf7cc0d66b/Logo%20Aqualuna.png" 
                 alt="Aqualuna Logo" 
-                className="h-12 w-auto object-contain" 
+                className="h-14 w-auto object-contain" 
               /> 
             </div>
             Aqualuna
