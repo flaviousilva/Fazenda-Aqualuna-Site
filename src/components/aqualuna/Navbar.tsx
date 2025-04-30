@@ -22,7 +22,7 @@ const Navbar = () => {
           <a href="/" className="flex items-center gap-2 font-playfair font-bold text-xl text-aqua tracking-wide">
             <div className="bg-white/30 rounded-full p-1">
               <img 
-                src="/lovable-uploads/3d33c833-f0e1-4e81-87e8-818dfc317faf.png" 
+                src="https://raw.githubusercontent.com/flaviousilva/imagens/9677315af4dc12cd6594e73bb0e3c8bf7cc0d66b/Logo%20Aqualuna.png" 
                 alt="Aqualuna Logo" 
                 className="h-12 w-auto object-contain" 
               /> 
